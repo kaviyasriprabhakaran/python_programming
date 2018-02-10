@@ -1,0 +1,16 @@
+a=10
+b=5
+c=8
+d=9
+e=21
+f=6
+g=20
+h=7
+i=4
+j=15
+k=a+b+c+d+e+f+g+h+i+j
+print(k)
+l=a*b*c*d*e*f*g*h*i*j
+print(l)
+m=l/k
+print(m)
